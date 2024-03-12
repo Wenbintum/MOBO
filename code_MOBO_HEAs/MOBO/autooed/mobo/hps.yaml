@@ -1,0 +1,11 @@
+'discovery':
+        "__name__" : "ParetoFrontDiscovery"
+        "n_gen":     10
+        "pop_size":  100
+        "n_process": 4
+        "delta_b":   2
+        "label_cost":   10
+        "delta_p": 3
+        "delta_s": 0.3
+        "n_grid_sample": 100
+
